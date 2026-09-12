@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 line edited from local
+=======
+this line is edited from cloud
+>>>>>>> 90ecf8c5e022b5731ca884779e55eb68a50e2325
